@@ -44,6 +44,10 @@ The fakultetsmedel "Project I/K-baerere" number for GU is 2078341 and for Chalme
 
 To be confirmed: The lecture room has projector and whiteboards.
 
+## Talks
+
+- Peter: Universes in type theory (and in Agda), jww Thierry and Marc Bezem and Martin Escardo.
+
 ## Division meeting
 
 Possible topics for division meeting (from 2018, maybe not all of these):
