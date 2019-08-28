@@ -18,6 +18,8 @@
 - See [Google Maps](https://www.google.se/maps).
 - See [Västtrafik Reseplaneraren](https://www.vasttrafik.se/reseplanering/reseplaneraren/).
 
+We are currently investigating the possibility to rent a minibus to drive us there from Chalmers (because the venue is hard to reach by public transport).
+
 [Reimbursement instructions for last year (2018):
 Division members can have the their bus ticket reimbursed by the division via Primula.
 The fakultetsmedel "Project I/K-baerere" number for GU is 2078341 and for Chalmers is 3740334.]
@@ -44,6 +46,7 @@ The fakultetsmedel "Project I/K-baerere" number for GU is 2078341 and for Chalme
 
 Alternatives:
 
+- start at 9.30 for better public transport connection
 - have the _promenad_ after lunch rather than before dinner.
 - have Talk 8 at 16.30 (shorter break before dinner)
 
