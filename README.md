@@ -31,22 +31,31 @@ The fakultetsmedel "Project I/K-baerere" number for GU is 2078341 and for Chalme
 | 09.30 | Talk 1
 | 10.00 | Talk 2
 | 10.30 | Talk 3
-| 11.00 | Talk 4
-| 11.30 | _Lunch_
-| 13.00 | Division meeting: future of L&T, MSc/BSc thesis topics brainstorming
-| 14.30 | _Coffee_
-| 15.00 | Talk 5
+| 11.00 | _Break_
+| 11.10 | Division meeting: work environment, future of L&T, MSc/BSc thesis topics brainstorming
+| 12.40 | _Lunch_
+| 14.00 | Talk 4
+| 14.30 | Talk 5
+| 15.00 | _Coffee_
 | 15.30 | Talk 6
 | 16.00 | Talk 7
-| 16.30 | Talk 8
-| 17.00 | _Break_
+| 16.30 | _Promenad_
 | 18.00 | _Dinner_
+
+Alternatives:
+
+- have the _promenad_ after lunch rather than before dinner.
+- have Talk 8 at 16.30 (shorter break before dinner)
 
 To be confirmed: The lecture room has projector and whiteboards.
 
 ## Talks
 
 - Peter: Universes in type theory (and in Agda), jww Thierry and Marc Bezem and Martin Escardo.
+- Nisse: On the erasure modality `@0`
+- Bahareh: TBA
+- Robin: On the elementary theory of the 2-category of categories or TBA
+- Andreas: On intrinsic scoping and the sublist category
 
 ## Division meeting
 
@@ -59,4 +68,13 @@ Possible topics for division meeting (from 2018, maybe not all of these):
 
 ## Participants
 
-To be confirmed: Peter, Thierry, Ana, Andreas, Bahareh, Robin, Ulf, Jesper, Fabian, Victor, ???
+- Andreas Abel
+- Robin Adams
+- Bahareh Afshari
+- Ana Bove
+- Jesper Cockx
+- Nils Anders Danielsson
+- Peter Dybjer
+- Linn Holmeskog (until 14.00)
+
+To be confirmed: Thierry C, Rebecca C, Victor LJ, Ulf N, Fabian R
