@@ -59,6 +59,7 @@ To be confirmed: The lecture room has projector and whiteboards.
 - Bahareh: TBA
 - Robin: On the elementary theory of the 2-category of categories or TBA
 - Andreas: On intrinsic scoping and the sublist category
+- Ulf?
 
 ## Division meeting
 
@@ -74,10 +75,15 @@ Possible topics for division meeting (from 2018, maybe not all of these):
 - Andreas Abel
 - Robin Adams
 - Bahareh Afshari
+- Oscar Bernskiöld (until 14.00)
 - Ana Bove
 - Jesper Cockx
 - Nils Anders Danielsson
 - Peter Dybjer
 - Linn Holmeskog (until 14.00)
+- Ulf Norell
 
-To be confirmed: Thierry C, Rebecca C, Victor LJ, Ulf N, Fabian R
+To be confirmed: Rebecca C, Victor LJ, Fabian R
+
+Absent:
+- Thierry
