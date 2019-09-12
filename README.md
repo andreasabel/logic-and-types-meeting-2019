@@ -29,18 +29,20 @@ The fakultetsmedel "Project I/K-baerere" number for GU is 2078341 and for Chalme
 
 | Time | Program |
 |---|---|
+| 08.30 | Minibus from Chalmers
 | 09.00 | _Coffee_
-| 09.30 | Talk 1
-| 10.00 | Talk 2
-| 10.30 | Talk 3
-| 11.00 | _Break_
-| 11.10 | Division meeting: work environment, future of L&T, MSc/BSc thesis topics brainstorming
+| 09.30 | Peter: Universes in type theory (and in Agda), jww Thierry and Marc Bezem and Martin Escardo.
+| 10.00 | Bahareh: TBA
+| 10.30 | _Break_
+| 11.00 | Linn and Oscar: Education, admininstration, and economy
+| 11.20 | Discussion: work environment
+| 12.00 | Discussion: future of L&T, MSc/BSc thesis topics brainstorming
 | 12.40 | _Lunch_
-| 14.00 | Talk 4
-| 14.30 | Talk 5
+| 14.00 | Nisse: On the erasure modality `@0`
+| 14.30 | Andreas: On intrinsic scoping and the sublist category
 | 15.00 | _Coffee_
-| 15.30 | Talk 6
-| 16.00 | Talk 7
+| 15.30 | Robin: On the elementary theory of the 2-category of categories
+| 16.00 | Victor: Unification with heterogeneous equality
 | 16.30 | _Promenad_
 | 18.00 | _Dinner_
 
@@ -59,6 +61,7 @@ To be confirmed: The lecture room has projector and whiteboards.
 - Bahareh: TBA
 - Robin: On the elementary theory of the 2-category of categories or TBA
 - Andreas: On intrinsic scoping and the sublist category
+- Victor: Unification with heterogeneous equality
 - Ulf?
 
 ## Division meeting
@@ -82,8 +85,10 @@ Possible topics for division meeting (from 2018, maybe not all of these):
 - Peter Dybjer
 - Linn Holmeskog (until 14.00)
 - Ulf Norell
+- Victor LJ
+- Fabian R
 
-To be confirmed: Rebecca C, Victor LJ, Fabian R
+To be confirmed: Rebecca C
 
 Absent:
 - Thierry
