@@ -36,7 +36,7 @@ You will be reimbursed by the division if you use your car to take other people 
 |---|---|
 | 08.30 | Minibus from Chalmers
 | 09.00 | _Coffee_
-| 09.30 | Peter: Universes in type theory (and in Agda), jww Thierry and Marc Bezem and Martin Escardo.
+| 09.30 | Peter: Universes in type theory (and in Agda)
 | 10.00 | Bahareh: An infinitary treatment of full mu-calculus
 | 10.30 | _Break_
 | 11.00 | Q&A session with Linn and Oscar: Education, admininstration, and economy
