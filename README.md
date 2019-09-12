@@ -37,7 +37,7 @@ You will be reimbursed by the division if you use your car to take other people 
 | 08.30 | Minibus from Chalmers
 | 09.00 | _Coffee_
 | 09.30 | Peter: Universes in type theory (and in Agda), jww Thierry and Marc Bezem and Martin Escardo.
-| 10.00 | Bahareh: talk TBA
+| 10.00 | Bahareh: An infinitary treatment of full mu-calculus
 | 10.30 | _Break_
 | 11.00 | Q&A session with Linn and Oscar: Education, admininstration, and economy
 | 11.20 | Ana, Peter: Discussion on work environment
@@ -57,7 +57,7 @@ To be confirmed: The lecture room has projector and whiteboards.
 
 - Peter: Universes in type theory (and in Agda), jww Thierry and Marc Bezem and Martin Escardo.
 - Nisse: On the erasure modality `@0`
-- Bahareh: TBA
+- Bahareh: An infinitary treatment of full mu-calculus
 - Robin: On the elementary theory of the 2-category of categories or TBA
 - Andreas: On intrinsic scoping and the sublist category
 - Victor: Unification with heterogeneous equality
