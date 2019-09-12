@@ -46,8 +46,8 @@ You will be reimbursed by the division if you use your car to take other people 
 | 14.00 | Nisse: On the erasure modality `@0`
 | 14.30 | Andreas: On intrinsic scoping and the sublist category
 | 15.00 | _Coffee_
-| 15.30 | Robin: On the elementary theory of the 2-category of categories
-| 16.00 | Victor: Unification with heterogeneous equality
+| 15.30 | Victor: Unification with heterogeneous equality
+| 16.00 | Talk 6
 | 16.30 | _Promenad_
 | 18.00 | _Dinner_
 
@@ -58,7 +58,6 @@ To be confirmed: The lecture room has projector and whiteboards.
 - Peter: Universes in type theory (and in Agda), jww Thierry and Marc Bezem and Martin Escardo.
 - Nisse: On the erasure modality `@0`
 - Bahareh: An infinitary treatment of full mu-calculus
-- Robin: On the elementary theory of the 2-category of categories or TBA
 - Andreas: On intrinsic scoping and the sublist category
 - Victor: Unification with heterogeneous equality
 
