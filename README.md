@@ -5,6 +5,12 @@
 
 ## Travel
 
+A __minibus__ will leave at 8.30 from Chalmers (location TBA).
+
+### Public transport
+
+The venue is not easily reachable by public transport, as the connections are not frequent.
+Here is some basic connection information.
 - To Lerum:
   * train from Göteborg Central to Lerum station (20 min)
   * or bus LerumS from Svingeln to Hedlunds Backe (23 min).
@@ -18,12 +24,11 @@
 - See [Google Maps](https://www.google.se/maps).
 - See [Västtrafik Reseplaneraren](https://www.vasttrafik.se/reseplanering/reseplaneraren/).
 
-We are currently investigating the possibility to rent a minibus to drive us there from Chalmers (because the venue is hard to reach by public transport).
+### Reimbursement
 
-[Reimbursement instructions for last year (2018):
-Division members can have the their bus ticket reimbursed by the division via Primula.
-The fakultetsmedel "Project I/K-baerere" number for GU is 2078341 and for Chalmers is 3740334.]
+Public transport can be reimbursed by the division.
 
+You will be reimbursed by the division if you use your car to take other people with you.
 
 ## Schedule
 
@@ -32,11 +37,11 @@ The fakultetsmedel "Project I/K-baerere" number for GU is 2078341 and for Chalme
 | 08.30 | Minibus from Chalmers
 | 09.00 | _Coffee_
 | 09.30 | Peter: Universes in type theory (and in Agda), jww Thierry and Marc Bezem and Martin Escardo.
-| 10.00 | Bahareh: TBA
+| 10.00 | Bahareh: talk TBA
 | 10.30 | _Break_
-| 11.00 | Linn and Oscar: Education, admininstration, and economy
-| 11.20 | Discussion: work environment
-| 12.00 | Discussion: future of L&T, MSc/BSc thesis topics brainstorming
+| 11.00 | Q&A session with Linn and Oscar: Education, admininstration, and economy
+| 11.20 | Ana, Peter: Discussion on work environment
+| 12.10 | Andreas: MSc/BSc thesis topics brainstorming
 | 12.40 | _Lunch_
 | 14.00 | Nisse: On the erasure modality `@0`
 | 14.30 | Andreas: On intrinsic scoping and the sublist category
@@ -45,12 +50,6 @@ The fakultetsmedel "Project I/K-baerere" number for GU is 2078341 and for Chalme
 | 16.00 | Victor: Unification with heterogeneous equality
 | 16.30 | _Promenad_
 | 18.00 | _Dinner_
-
-Alternatives:
-
-- start at 9.30 for better public transport connection
-- have the _promenad_ after lunch rather than before dinner.
-- have Talk 8 at 16.30 (shorter break before dinner)
 
 To be confirmed: The lecture room has projector and whiteboards.
 
@@ -62,16 +61,6 @@ To be confirmed: The lecture room has projector and whiteboards.
 - Robin: On the elementary theory of the 2-category of categories or TBA
 - Andreas: On intrinsic scoping and the sublist category
 - Victor: Unification with heterogeneous equality
-- Ulf?
-
-## Division meeting
-
-Possible topics for division meeting (from 2018, maybe not all of these):
-
-- Master thesis brainstorming session
-- Work environment something
-- Funding/grant application brainstorming
-- General discussion about future research directions in Logic & Types
 
 ## Participants
 
@@ -85,8 +74,8 @@ Possible topics for division meeting (from 2018, maybe not all of these):
 - Peter Dybjer
 - Linn Holmeskog (until 14.00)
 - Ulf Norell
-- Victor LJ
-- Fabian R
+- Victor Lopez Juan
+- Fabian Ruch
 
 To be confirmed: Rebecca C
 
