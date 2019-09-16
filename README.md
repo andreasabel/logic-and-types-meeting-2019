@@ -5,7 +5,7 @@
 
 ## Travel
 
-A __minibus__ will leave at 8.30 from Chalmers (location TBA).
+A __minibus__ will leave at 8.30 from Chalmers Kopparbunken.  Let's meet there around 8.15.
 
 ### Public transport
 
@@ -34,7 +34,8 @@ You will be reimbursed by the division if you use your car to take other people 
 
 | Time | Program |
 |---|---|
-| 08.30 | Minibus from Chalmers
+| 08.15 | Meet at Chalmers Kopparbunken
+| 08.30 | Minibus departs
 | 09.00 | _Coffee_
 | 09.30 | Peter: Universes in type theory (and in Agda)
 | 10.00 | Bahareh: An infinitary treatment of full mu-calculus
