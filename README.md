@@ -48,7 +48,7 @@ You will be reimbursed by the division if you use your car to take other people 
 | 14.30 | Andreas: On intrinsic scoping and the sublist category
 | 15.00 | _Coffee_
 | 15.30 | Victor: Unification with heterogeneous equality
-| 16.00 | Talk 6
+| 16.00 | Talk 6: Possibly: Report from the Agda meeting
 | 16.30 | _Promenad_
 | 18.00 | _Dinner_
 
@@ -67,7 +67,6 @@ To be confirmed: The lecture room has projector and whiteboards.
 - Andreas Abel
 - Robin Adams
 - Bahareh Afshari
-- Oscar Bernskiöld (until 14.00)
 - Ana Bove
 - Jesper Cockx
 - Nils Anders Danielsson
@@ -79,5 +78,7 @@ To be confirmed: The lecture room has projector and whiteboards.
 
 To be confirmed: Rebecca C
 
-Absent:
-- Thierry
+Excused:
+- Oscar Bernskiöld
+- Thierry Coquand
+- Rebecca Cyren
