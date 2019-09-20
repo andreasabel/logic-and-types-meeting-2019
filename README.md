@@ -42,10 +42,10 @@ You will be reimbursed by the division if you use your car to take other people 
 | 10.30 | _Break_
 | 11.00 | Q&A session with Linn and Oscar: Education, admininstration, and economy
 | 11.20 | Ana, Peter: Discussion on work environment
-| 12.10 | Andreas: MSc/BSc thesis topics brainstorming
+| 12.10 | Andreas: [BSc thesis topics brainstorming](thesis-brainstorming.md)
 | 12.40 | _Lunch_
 | 14.00 | Nisse: On the erasure modality `@0`
-| 14.30 | Andreas: On intrinsic scoping and the sublist category
+| 14.30 | Andreas: [On intrinsic scoping and the sublist category](talks/andreas.md)
 | 15.00 | _Coffee_
 | 15.30 | Victor: Unification with heterogeneous equality
 | 16.00 | Talk 6: Possibly: Report from the Agda meeting
