@@ -38,13 +38,13 @@ You will be reimbursed by the division if you use your car to take other people 
 | 08.30 | Minibus departs
 | 09.00 | _Coffee_
 | 09.30 | Peter: Universes in type theory (and in Agda)
-| 10.00 | Bahareh: An infinitary treatment of full mu-calculus
+| 10.00 | Bahareh: [An infinitary treatment of full mu-calculus](talks/bahareh.pdf)
 | 10.30 | _Break_
-| 11.00 | Q&A session with Linn and Oscar: Education, admininstration, and economy
+| 11.00 | Q&A session with Linn and Oscar: [Education](talks/CSE-Student-Office_Grade-reporting.pdf), admininstration, and economy
 | 11.20 | Ana, Peter: Discussion on work environment
 | 12.10 | Andreas: [BSc thesis topics brainstorming](thesis-brainstorming.md)
 | 12.40 | _Lunch_
-| 14.00 | Nisse: On the erasure modality `@0`
+| 14.00 | Nisse: [On the erasure modality `@0`](http://www.cse.chalmers.se/~nad/publications/danielsson-division-meeting-2019-talk.pdf)
 | 14.30 | Andreas: [On intrinsic scoping and the sublist category](talks/andreas.md)
 | 15.00 | _Coffee_
 | 15.30 | Victor: Unification with heterogeneous equality
