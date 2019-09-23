@@ -3,6 +3,47 @@
 - Date: 20 September 2019
 - Place: [Aspenäs Herrgård](http://www.aspenasherrgard.se/)
 
+## Schedule
+
+| Time | Program |
+|---|---|
+| 08.15 | Meet at Chalmers Kopparbunken
+| 08.30 | Minibus departs
+| 09.00 | _Coffee_
+| 09.30 | Peter: Universes in type theory (and in Agda)
+| 10.00 | Bahareh: [An infinitary treatment of full mu-calculus](talks/bahareh.pdf)
+| 10.30 | _Break_
+| 11.00 | Q&A session with Linn and Oscar: [Education](talks/CSE-Student-Office_Grade-reporting.pdf), admininstration, and economy
+| 11.20 | Ana, Peter: Discussion on work environment
+| 12.10 | Andreas: [BSc thesis topics brainstorming](thesis-brainstorming.md)
+| 12.40 | _Lunch_
+| 14.00 | Nisse: [On the erasure modality `@0`](http://www.cse.chalmers.se/~nad/publications/danielsson-division-meeting-2019-talk.pdf)
+| 14.30 | Andreas: [On intrinsic scoping and the sublist category](talks/andreas.md)
+| 15.00 | _Coffee_
+| 15.30 | Victor: Unification with heterogeneous equality
+| 16.00 | Talk 6: Possibly: Report from the Agda meeting
+| 16.30 | _Promenad_
+| 18.00 | _Dinner_
+
+## Participants
+
+- Andreas Abel
+- Robin Adams
+- Bahareh Afshari
+- Ana Bove
+- Jesper Cockx
+- Nils Anders Danielsson
+- Peter Dybjer
+- Linn Holmeskog (until 14.00)
+- Ulf Norell
+- Victor Lopez Juan
+- Fabian Ruch
+
+Excused:
+- Oscar Bernskiöld
+- Thierry Coquand
+- Rebecca Cyren
+
 ## Travel
 
 A __minibus__ will leave at 8.30 from Chalmers Kopparbunken.  Let's meet there around 8.15.
@@ -29,58 +70,5 @@ Here is some basic connection information.
 Public transport can be reimbursed by the division.
 
 You will be reimbursed by the division if you use your car to take other people with you.
-
-## Schedule
-
-| Time | Program |
-|---|---|
-| 08.15 | Meet at Chalmers Kopparbunken
-| 08.30 | Minibus departs
-| 09.00 | _Coffee_
-| 09.30 | Peter: Universes in type theory (and in Agda)
-| 10.00 | Bahareh: [An infinitary treatment of full mu-calculus](talks/bahareh.pdf)
-| 10.30 | _Break_
-| 11.00 | Q&A session with Linn and Oscar: [Education](talks/CSE-Student-Office_Grade-reporting.pdf), admininstration, and economy
-| 11.20 | Ana, Peter: Discussion on work environment
-| 12.10 | Andreas: [BSc thesis topics brainstorming](thesis-brainstorming.md)
-| 12.40 | _Lunch_
-| 14.00 | Nisse: [On the erasure modality `@0`](http://www.cse.chalmers.se/~nad/publications/danielsson-division-meeting-2019-talk.pdf)
-| 14.30 | Andreas: [On intrinsic scoping and the sublist category](talks/andreas.md)
-| 15.00 | _Coffee_
-| 15.30 | Victor: Unification with heterogeneous equality
-| 16.00 | Talk 6: Possibly: Report from the Agda meeting
-| 16.30 | _Promenad_
-| 18.00 | _Dinner_
-
-To be confirmed: The lecture room has projector and whiteboards.
-
-## Talks
-
-- Peter: Universes in type theory (and in Agda), jww Thierry and Marc Bezem and Martin Escardo.
-- Nisse: On the erasure modality `@0`
-- Bahareh: An infinitary treatment of full mu-calculus
-- Andreas: On intrinsic scoping and the sublist category
-- Victor: Unification with heterogeneous equality
-
-## Participants
-
-- Andreas Abel
-- Robin Adams
-- Bahareh Afshari
-- Ana Bove
-- Jesper Cockx
-- Nils Anders Danielsson
-- Peter Dybjer
-- Linn Holmeskog (until 14.00)
-- Ulf Norell
-- Victor Lopez Juan
-- Fabian Ruch
-
-To be confirmed: Rebecca C
-
-Excused:
-- Oscar Bernskiöld
-- Thierry Coquand
-- Rebecca Cyren
 
 [Rendered version of this page.](https://andreasabel.github.io/meeting-logic-and-types-2019/)
