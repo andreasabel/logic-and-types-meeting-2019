@@ -82,3 +82,5 @@ Excused:
 - Oscar Bernskiöld
 - Thierry Coquand
 - Rebecca Cyren
+
+[Rendered version of this page.](https://andreasabel.github.io/meeting-logic-and-types-2019/)
