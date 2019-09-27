@@ -20,7 +20,7 @@
 | 14.00 | Nisse: [On the erasure modality `@0`](http://www.cse.chalmers.se/~nad/publications/danielsson-division-meeting-2019-talk.pdf)
 | 14.30 | Andreas: [On intrinsic scoping and the sublist category](talks/andreas.md)
 | 15.00 | _Coffee_
-| 15.30 | Victor: Unification with heterogeneous equality
+| 15.30 | Victor: [Unification with heterogeneous equality](talks/victor.pdf)
 | 16.00 | Talk 6: Possibly: Report from the Agda meeting
 | 16.30 | _Promenad_
 | 18.00 | _Dinner_
